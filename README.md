@@ -20,13 +20,6 @@ My background includes a Game Engineering specialisation during my degree, where
 
 Python · Java · C++ · C# · JavaScript · SQL · Git
 
-## Currently learning 📚
-
-* Backend development
-* Software architecture
-* Databases
-* Testing and debugging
-* Building better end-to-end projects
 
 ## Links 🔗
 
