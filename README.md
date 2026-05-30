@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ollie 👋
 
-<!--
-**Oliver-Wilde/Oliver-Wilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate living in the UK, starting an Advanced Computer Science MSc at Durham University.
 
-Here are some ideas to get you started:
+I’m working towards a career in software engineering, with a particular interest in backend development, databases, systems, and practical software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background includes a Game Engineering specialisation during my degree, where I worked on low-level programming and built a Vulkan-based voxel engine for my dissertation.
+
+## Interests ⚙️
+
+* Software engineering
+* Backend development
+* Databases
+* Systems programming
+* Automation
+* Web applications
+* Developer tooling
+
+## Tech 🛠️
+
+Python · Java · C++ · C# · JavaScript · SQL · Git
+
+## Currently learning 📚
+
+* Backend development
+* Software architecture
+* Databases
+* Testing and debugging
+* Building better end-to-end projects
+
+## Links 🔗
+
+* LinkedIn:
+* Portfolio:
