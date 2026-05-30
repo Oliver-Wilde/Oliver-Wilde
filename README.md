@@ -23,5 +23,5 @@ Python · Java · C++ · C# · JavaScript · SQL · Git
 
 ## Links 🔗
 
-* LinkedIn:
+* LinkedIn: https://www.linkedin.com/in/oliver-wilde-047a1325a/
 * Portfolio:
