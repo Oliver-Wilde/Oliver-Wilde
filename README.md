@@ -11,16 +11,12 @@ Right now, I am cleaning up my public portfolio so that my projects are easier t
 - Backend and general software engineering
 - Systems programming and performance engineering
 - Distributed systems and networking
-- Blockchain / cryptocurrency protocol fundamentals
 - Fintech-relevant software engineering
-- Portfolio polish, documentation, and testing
 
 ## Projects and evidence
 
 - **Vulkan voxel engine dissertation** — chunk-based voxel terrain, greedy meshing, multithreaded rebuild scheduling, benchmark logging, memory analysis, rebuild latency, and frame-time variance.
 - **Personal portfolio website** — public-facing portfolio for project write-ups, case studies, CV links, and selected software projects.
-- **Blockchain full-node project** — planned Rust project focused on transactions, validation, blocks, persistence, local networking, and tests.
-- **Distributed scheduler project** — planned backend/platform project focused on jobs, workers, heartbeats, retries, persistence, metrics, and scheduling algorithms.
 - **STANLEY clothing / art-commerce site** — practical ecommerce/web project built around original artwork, clothing drops, and a polished storefront.
 
 ## Tech
